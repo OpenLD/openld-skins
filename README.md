@@ -1,4 +1,4 @@
-oe-alliance-skins
+openld-skins
 =================
 
-skins for oe-alliance
+skins for openld
